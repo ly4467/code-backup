@@ -1,0 +1,15 @@
+I'm learning the basic knowledge of PyTorch recently. I write this practice as the result of the first stage.
+
+The dataset I use is CIFAR10, which contains 10 categories:
+0. airplane
+1. automobile
+2. bird
+3. cat
+4. deer
+5. dog
+6. frog
+7. horse
+8. ship
+9. truck
+
+I build a neural network model aiming to successfully recognize which of the category that a picture should belong to.

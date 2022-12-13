@@ -1,0 +1,5 @@
+{'student_id': 1000, 'student_name': 'xiaoming', 'english_score': 60, 'python_score': 60, 'java_score': 60, 'total_score': 180}
+{'student_id': 1001, 'student_name': 'xiaoli', 'english_score': 100, 'python_score': 100, 'java_score': 100, 'total_score': 300}
+{'student_id': 1002, 'student_name': 'xiaofang', 'english_score': 60, 'python_score': 60, 'java_score': 60, 'total_score': 180}
+{'student_id': 1003, 'student_name': 'xiaowang', 'english_score': 6, 'python_score': 0, 'java_score': 60, 'total_score': 66}
+{'student_id': 1004, 'student_name': 'xiaoye', 'english_score': 60, 'python_score': 60, 'java_score': 60, 'total_score': 180}
