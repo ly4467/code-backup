@@ -16,3 +16,8 @@ image-classification-recognition-based-on-neural-network-main:
 
 basic-algorithm-learning:
 学习李航的统计学习方法，自己尝试学习用代码实现书上一些算法。
+
+------------------------------------------------------------------------------------------------------------------
+
+machine-learning:
+学习吴恩达的machine learning课程做的一些代码作业，实现课程中的算法，用python实现
