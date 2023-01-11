@@ -1,0 +1,1 @@
+logistic reergression后面部分加上正则项的代码还有bug，不能正常收敛，需要再看看
